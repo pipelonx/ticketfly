@@ -1,4 +1,3 @@
-// controllers/productoraController.js
 const Productora = require('../models/Productora');
 
 // Crear una productora

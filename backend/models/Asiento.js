@@ -1,4 +1,3 @@
-// models/Asiento.js
 const mongoose = require('mongoose');
 
 const AsientoSchema = new mongoose.Schema({
